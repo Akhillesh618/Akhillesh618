@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Firebase
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... akhivvv@gmail.com
-- 😄 Pronouns: ... Hey
 - ⚡ Fun fact: ... Im half way to my Reach
 
 <h2> My GitHub Stats </h2>
